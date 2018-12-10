@@ -10,11 +10,11 @@ Pequeño ejemplo de Modelo vista controlador en php puedes tomar este proyecto c
 Para vizualizar el proyecto
 Debes tener instalado mysql y apache
 importar la base de datos
-```
+
 ## Uso
+```
 abrir la ruta del proyecto y poner alguna de las siguientes rutas
 ejemplo: localhost://MVC/index.php?controller=Nota&action=mostrar
-```
 Muestra todas las notas
 index.php?controller=Nota&action=mostrar
 
